@@ -1,2 +1,2 @@
-# cloud_computin
+# cloud_computing
 this for cloud computing course 
